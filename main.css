@@ -1,0 +1,44 @@
+body
+{
+    overflow-x: hidden;
+}
+.section-one
+{
+    background-color:#B0D5D8 ;
+    width:100%;
+}
+.img-one
+{
+    width:100%;
+    background-color: #F5F5F5;
+}
+.img-two
+{
+    width:100%;
+    background-color: #F5F5F5;
+}
+.img-three
+{
+    width:100%;
+    background-color:#ADD4FF;
+}
+.img-four
+{
+    width:100%;
+    background-color:#EBD9D9;
+}
+.img-five
+{
+    width:100%;
+    background-color:#F5F5F5;
+}
+.img-six
+{
+    width:100%;
+    background-color:#F5F5F5;
+}
+.img-seven
+{
+    width:100%;
+    background-color:#E6E2F0;
+}
